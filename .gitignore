@@ -1,0 +1,23 @@
+# Node modules (DON'T push to GitHub or deploy)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# dotenv env file (e.g. MONGO_URI)
+.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
